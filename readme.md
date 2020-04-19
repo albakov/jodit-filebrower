@@ -114,7 +114,7 @@ $config = [
 например [SimpleImage](https://github.com/claviska/SimpleImageSimpleImage).
 
 Сначала создается класс-обработчик, который реализовывает интерфейс Albakov\JoditFilebrowser\Interfaces\ImageContract.
-<br>Пример этого файла тут: 
+<br>Пример этого файла тут: https://github.com/albakov/jodit-filebrower/blob/master/src/Example/Image.php
 
 Далее указываем обработчик:
 
