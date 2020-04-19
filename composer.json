@@ -1,5 +1,5 @@
 {
-    "name": "jodit-filebrowser",
+    "name": "albakov/jodit-filebrowser",
     "description": "Jodit FileBrowser Connector",
     "type": "library",
     "license": "MIT",
