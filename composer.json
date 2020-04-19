@@ -1,0 +1,20 @@
+{
+    "name": "jodit-filebrowser",
+    "description": "Jodit FileBrowser Connector",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "ismail",
+        "email": "ismail.albakov@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "config": {
+        "preferred-install": "dist"
+    },
+    "autoload": {
+        "psr-4": {
+            "Albakov\\JoditFilebrowser\\": "src/"
+        }
+    }
+}
